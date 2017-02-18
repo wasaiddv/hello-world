@@ -1,2 +1,2 @@
 # hello-world
-Test Only
+This is Robot-CoffeeScript.
